@@ -1,3 +1,4 @@
+<img src="https://github.com/Signor1/registry-Dapp/blob/1dfa2539cd5dda6321c2b08a2d1eeb5ac65b9747/Screenshot%202024-02-01%20at%207.22.10%20PM.png"/>
 # Registry DApp
 
 This is a simple decentralized application (DApp) built using Hardhat, Solidity, ethers.js, and React. The DApp allows users to register entities with a name and age.
