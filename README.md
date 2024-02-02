@@ -3,6 +3,8 @@
 
 This is a simple decentralized application (DApp) built using Hardhat, Solidity, ethers.js, and React. The DApp allows users to register entities with a name and age.
 
+contract Address = 0x1b1460B64D96AcFbD46f6BCBF3f491cd6AB2E0f5
+
 ## Prerequisites
 
 - Node.js: Make sure you have Node.js installed. You can download it [here](https://nodejs.org/).
